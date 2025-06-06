@@ -1,4 +1,4 @@
-{% set version = "1.42.0" %}
+{% set version = "1.43.0" %}
 
 package:
   name: icub-firmware-shared-split
@@ -6,7 +6,7 @@ package:
 
 source:
   - url: https://github.com/robotology/icub-firmware-shared/archive/refs/tags/v{{ version }}.tar.gz
-    sha256: b4fde83e3b341d315adaa29977890a885c611aacb54e505630d092bccc7f86dd
+    sha256: 571b747c6c27d254ae74166536f098e139dd1dbd253980f344c60f5d54f8605d
 
 build:
   number: 0
