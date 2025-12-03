@@ -69,4 +69,5 @@ about:
 extra:
   feedstock-name: icub-firmware-shared
   recipe-maintainers:
+    - Nicogene
     - traversaro
